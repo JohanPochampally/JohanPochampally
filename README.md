@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohanPochampally
-- 👀 I’m interested in Data Science Python Java
+- 👀 I’m interested in Data Science, Python, Java
 - 🌱 I’m currently learning Web Development Data Science
 
 <!---
