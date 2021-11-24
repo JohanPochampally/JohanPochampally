@@ -12,7 +12,9 @@ _**I'm Johan Pochampally**_<br>
 * **_Python_** <br>
 
 **_Web Development_**
-* **_Node.js_** 
+* **_Node.js_** <br>
+
+**_SQL_**
 
 # Currently Learning and Mastering
 `React`|`Machine Learning`|`Algorithms for Problem Solving`|`Data Science`
