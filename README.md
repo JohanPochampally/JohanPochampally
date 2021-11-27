@@ -23,12 +23,12 @@ _**I'm Johan Pochampally**_<br>
 _**Web app**_
 + Paying Guest Website [Check it Out!](https://pg-api-app.herokuapp.com/)<br>
 
-_**Beginner Projects**_
+<!-- _**Beginner Projects**_
 1. Equity Research Management System
   * Built using Java.
 2. Personal Finance Management System
   * Built in Python.
-
+-->
 # Connect with me on
 * Linkedin  (https://www.linkedin.com/in/johan-pochampally-8a8795207/)
 * Email (johan.pochampally@yahoo.com)
